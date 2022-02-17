@@ -7,4 +7,5 @@
 
     <string name="edittext_share">\'Twas brillig and the slithy toves</string>
     <string name="button_share">Share This Text</string>
+    <string name="app_name">Implicit Intents</string>
 </resources>
